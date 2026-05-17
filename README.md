@@ -4,6 +4,9 @@ O **DashMais** é um painel web para acompanhar os envios automáticos de cobran
 
 O objetivo é centralizar a visão de cobrança, permitindo acompanhar mensagens enviadas, clientes cobrados, inadimplência, pré-vencimentos, boletos emitidos e histórico de envios.
 
+<img width="1852" height="925" alt="{21D00316-122F-4F3B-8EDA-8F1213E8AAA9}" src="https://github.com/user-attachments/assets/15214769-9a87-47f2-b97e-a93d15cc1437" />
+
+
 ---
 
 ## Visão geral
